@@ -1,0 +1,46 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "artist": "Scorpions",
+      "track": "Wind Of Change",
+      "listened": true,
+      "favourite": false
+    },
+    {
+      "id": 2,
+      "artist": "Eminem",
+      "track": "Mockingbird",
+      "listened": true,
+      "favourite": false
+    },
+    {
+      "id": 3,
+      "artist": "Tom Odell",
+      "track": "Heal",
+      "listened": false,
+      "favourite": true
+    },
+    {
+      "id": 4,
+      "artist": "Scorpions",
+      "track": "Send Me An Angle",
+      "listened": true,
+      "favourite": true
+    },
+    {
+      "id": 5,
+      "artist": "Eminem",
+      "track": "Till I Collapse",
+      "listened": false,
+      "favourite": true
+    },
+    {
+      "id": 6,
+      "artist": "Bob Marley",
+      "track": "Three Little Birds",
+      "listened": true,
+      "favourite": true
+    }
+  ]
+}

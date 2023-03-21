@@ -1,0 +1,52 @@
+.song-list {
+  background: #FFFFFF8B;
+  border-radius: 10px;
+  overflow: hidden;
+
+  &__status {
+    display: flex;
+    justify-content: start;
+    *{
+      cursor: pointer;
+    }
+  }
+
+  &__listened {
+    color: purple;
+  }
+
+  h3 {
+    background: #181877A8;
+    text-align: center;
+    padding: 10px;
+
+  }
+
+
+  ul {
+    li {
+      list-style-type: none;
+      display: flex;
+      justify-content: space-between;
+
+      * {
+        padding: 5px;
+
+      }
+
+      p {
+      }
+
+      span {
+        font-size: 12px;
+        color: #181877A8;
+        text-align: end;
+        margin-bottom: 10px;
+      }
+
+    }
+  }
+
+
+}
+
