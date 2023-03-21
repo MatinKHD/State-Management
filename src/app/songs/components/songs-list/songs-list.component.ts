@@ -33,7 +33,6 @@ import { SongModel } from "../../models/song.model";
         </li>
       </ul>
     </div>
-    <pre>{{list | json}}</pre>
   `
 })
 export class SongsListComponent {
